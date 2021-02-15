@@ -50,7 +50,7 @@ test = {
         },
         {
           'code': r"""
-          >>> np.isclose(ss_guessed, 13928.14)
+          >>> np.isclose(ss_guessed, 3148.54)
           True
           """,
           'hidden': False,
